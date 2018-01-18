@@ -1,0 +1,1 @@
+Blank Java project to start some TDD katas (already has a FizzBuzzTest class)
